@@ -3,7 +3,7 @@ import classes from './index.module.css';
 
 export default function CartButton (props) {
     return (
-        <button className={classes.button}>
+        <button className={classes.button} onClick={props.onClick}>
             <span className={classes.icon}>
                 <ShoppingCartIcon />
             </span>
