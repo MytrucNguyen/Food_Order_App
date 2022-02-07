@@ -1,4 +1,5 @@
 import classes from './index.module.css';
+import Modal from '../UI/Modal';
 
 export default function Cart (props) {
     const cartItems = 
@@ -11,7 +12,7 @@ export default function Cart (props) {
             }].map((item) => <li>{item.name}</li>)}
         </ul>;
     return (
-        <div>
+        <Modal>
             {cartItems}
             <div className={classes.total}>
                 <span>Total Amount</span>
@@ -21,6 +22,6 @@ export default function Cart (props) {
                 <button className={classes['button--alt']}>Close</button>
                 <button className={classes.button}>Order</button>
             </div>
-        </div>
+        </Modal>
     );
 };
