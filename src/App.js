@@ -1,11 +1,13 @@
-import logo from './logo.svg';
+import { Fragment } from 'react';
 import './App.css';
+// Layout 
+import Header from './Layout/Header';
 
 function App() {
   return (
-    <div>
-      <h2>Let's get started!</h2>
-    </div>
+    <Fragment>
+      <Header />
+    </Fragment>
   );
 }
 
