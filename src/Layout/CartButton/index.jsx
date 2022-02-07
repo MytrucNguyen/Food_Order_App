@@ -1,4 +1,6 @@
+import { useContext } from 'react';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
+import cartContext from '../../store/CartContext';
 import classes from './index.module.css';
 
 export default function CartButton (props) {
