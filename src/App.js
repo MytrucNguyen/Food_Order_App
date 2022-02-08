@@ -4,6 +4,7 @@ import Meals from './components/Meals';
 import Cart from './components/Cart'
 // Layout 
 import Header from './layout/Header';
+// Context
 import CartProvider from './store/CartProvider';
 
 function App() {

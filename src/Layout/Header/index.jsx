@@ -1,7 +1,10 @@
 import { Fragment } from "react";
-import classes from './index.module.css';
-import Food from '../../../src/assests/img/Food.JPG'
+
 import CartButton from "../CartButton";
+
+import Food from '../../../src/assests/img/Food.JPG'
+import classes from './index.module.css';
+
 
 export default function Header (props) {
   return (
