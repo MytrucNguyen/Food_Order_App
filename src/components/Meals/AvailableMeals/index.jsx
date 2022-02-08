@@ -5,27 +5,27 @@ import MealItem from '../MealItem';
 const DUMMY_MEALS = [
     {
       id: 'm1',
-      name: 'Sushi',
-      description: 'Finest fish and veggies',
-      price: 22.99,
+      name: 'Vietnamese Egg Rolls',
+      description: 'Shrimp, Pork, Onions, Carrots, Shitake and Rice Vermicelli',
+      price: 9.99,
     },
     {
       id: 'm2',
-      name: 'Schnitzel',
-      description: 'A german specialty!',
-      price: 16.5,
+      name: 'Calamari Strips',
+      description: 'Spicy Sauce, Fried Calamari, Carrots, Lettuce, Cucumbers, Rice Vermicelli, Bean Sprouts and Peanut',
+      price: 11.5,
     },
     {
       id: 'm3',
-      name: 'Barbecue Burger',
-      description: 'American, raw, meaty',
+      name: 'Large Pho Bo Vien/Pho Meatballs',
+      description: 'Meatball and Rice Noodle',
       price: 12.99,
     },
     {
       id: 'm4',
-      name: 'Green Bowl',
+      name: 'Vegetable and Tofu Pho',
       description: 'Healthy...and green...',
-      price: 18.99,
+      price: 11.99,
     },
   ];
 
