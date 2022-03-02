@@ -1,5 +1,8 @@
-<a href="https://hungryrun.netlify.app/">Live Demo</a>
+<a href="https://hungryrun.netlify.app/">Live Demo</a>: https://hungryrun.netlify.app/
 
+<a href="https://hungryrun.netlify.app/">![image](https://user-images.githubusercontent.com/80004058/156456878-fd2a3f7f-b1c6-4816-8e52-6b9e6fc89f0b.png)</a>
+
+<a href="https://hungryrun.netlify.app/">![image](https://user-images.githubusercontent.com/80004058/156456987-d675c91a-af05-4326-b050-8683dd65e7e6.png)</a>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
